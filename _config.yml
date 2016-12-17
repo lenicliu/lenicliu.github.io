@@ -1,3 +1,4 @@
 title: lenicliu's blog
 theme: jekyll-theme-hacker
 markdown: kramdown
+filter: tag
