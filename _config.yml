@@ -1,4 +1,7 @@
 title: lenicliu's blog
 theme: jekyll-theme-hacker
 markdown: kramdown
-filter: tag
+highlighter: rouge
+encoding: UTF-8
+gems:
+  - jekyll-sitemap
